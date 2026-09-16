@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 · CK5ohjsS -->
-## Notification 1/2
-Round: Round 1
-To: angelfreak797@yahoo.com, angelfree63@yahoo.com
-At: 2026-09-16 15:12:23
-Id: CK5ohjsS
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelfyre0069@yahoo.com, angelfyrebaby@yahoo.com
+At: 2026-09-16 15:12:32
+Id: 7y9AWM17
